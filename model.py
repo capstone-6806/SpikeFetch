@@ -75,7 +75,7 @@ class MLPrefetchModel_spikefetch_pcpage(object):
 
         # constants for snn
         delta_range_length = 127
-        neuron_numbers = 50
+        neuron_numbers = 70
 
         timestamps = 32
         # input_intensity = 10000
